@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Diary</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>My Diary</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="logout.html">Logout</a>
+        </nav>
+    </header>
+    <main>
+        <div class="diary-entry">
+            <h2>January 1, 2024</h2>
+            <p>Today, I had a great day...</p>
+        </div>
+        <!-- Additional diary entries go here -->
+    </main>
+    <footer>
+        <!-- Footer content -->
+    </footer>
+</body>
+</html>
