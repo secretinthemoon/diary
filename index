@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moon's Memories</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Secret in the Moon</h1>
+        <nav>
+            <a href="login.html">Slow wishpers</a>
+        </nav>
+    </header>
+    <main>
+        <p>Secrets I have never told anyone.
+            Everyone has there hidden secrets and I have too, I want to store it here.
+        </p>
+    </main>
+    <footer>
+        <!-- Footer content -->
+    </footer>
+</body>
+</html>
